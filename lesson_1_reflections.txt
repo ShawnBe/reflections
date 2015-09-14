@@ -19,3 +19,5 @@ Programmer may forget to save and loose changes.
 if there is an error it would be simple to revert to the last set of code that works.
 
 I want to try using Git to manage code changes. Undo changes and work with other developers.
+
+New line
