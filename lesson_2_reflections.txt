@@ -7,4 +7,8 @@ A new starting point is created to allow you to track changes to the different f
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area allows you to combine changes to multiple files as one logical commit rather than having to comit each change separately
-New Linee
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Staging area allows you to combine changes from multiple fies into on commit.
