@@ -17,3 +17,7 @@ Staging area allows you to combine changes from multiple fies into on commit.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 When introducing a new feature, or experiments or making significant changes that you are unsure about
+
+
+How do the diagrams help you visualize the branch structure?
+???
