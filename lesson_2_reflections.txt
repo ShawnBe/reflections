@@ -21,3 +21,7 @@ When introducing a new feature, or experiments or making significant changes tha
 
 How do the diagrams help you visualize the branch structure?
 ???
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+It combines the changes made between the two different branches
