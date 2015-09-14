@@ -1,0 +1,21 @@
+diff showed the bugs because the code was working before so 
+therefore something was changed to stop it from working, by
+showing the places in the code where changes were made it helps
+to narrow the area that needs to be searched to show where the 
+problem lies.
+
+Having easy access to the history of a file can show what changes 
+were made and allow you to undo new changes that may not work as 
+intended. 
+
+Manual commit pros
+Choose a logical point to save (such as a new feature)
+Auto saving may save while in the middle of coding and code
+may not compile.
+
+Cons
+Programmer may forget to save and loose changes.
+
+if there is an error it would be simple to revert to the last set of code that works.
+
+I want to try using Git to manage code changes. Undo changes and work with other developers.
